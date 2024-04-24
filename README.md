@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Peter Paker</h1>
-<h3 align="center">A Full Stack Web Developer from CANADA</h3>
+<h1 align="center">Hi 👋, Nice to meet you.</h1>
+<h3 align="center">Web, RPA Expert</h3>
 <h3 align="center">
-    <a href="https://portfolio-peter-8c073.web.app/" target="_blank">Visit website</a>
+    <a href="https://cozyfox-portfolio.web.app/" target="_blank">Visit website</a>
 </h3>
 <table>
   <tr>
