@@ -3,15 +3,6 @@
 <h3 align="center">
     <a href="https://cozyfox-portfolio.web.app/" target="_blank">Visit website</a>
 </h3>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <p align="center">
-        <img  src="github-contribution-grid-snake.svg" alt="example" />
-      </p>
-    </td>
-  </tr>
-</table>
 <h3 align="left">Languages and Tools:</h3>
 <code> <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> </code>
@@ -140,38 +131,12 @@
 </div>
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrnbot" alt="hrnbot" /></a> </p>
-<h1>Popular Repos created by me</h1>
-<table>
-  <thead align="center">
-    <tr >
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning"><b>Basic-Mathematics-for-Machine-Learning</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
-         </tr>
-	  <tr>
-	    <td><a href="https://github.com/weboccult-ai/onnx-model-zoo"><b>onnx-model-zoo</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/weboccult-ai/onnx-model-zoo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/weboccult-ai/onnx-model-zoo?style=flat-square&labelColor=343b41"/></td>
-         </tr>
-	  </tr>
-  </tbody>
-</table>
+
 
 <h1>GitHub Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnbot&show_icons=true&locale=en&layout=compact" alt="hrnbot" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=hrnbot&amp;show_icons=true" alt="GitHub Stats"></p>
 
-<h11>Where to find me</h1>
-<p><a href="https://github.com/hrnbot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hiren-namera-83520ab4" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/the_artificial_intel_developer/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-<a href="https://www.buymeacoffee.com/hrnbot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
 <p>
 <p>⏰ Updated on Wed, 13 Dec 2023 18:19:46 GMT</p>
