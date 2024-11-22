@@ -11,6 +11,7 @@
       <code> <img height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> </code>
+      <code> <img height="30" src="https://img.shields.io/badge/vue-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> </code>
