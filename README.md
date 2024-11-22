@@ -8,8 +8,10 @@
       <code> <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> </code>
+      <code> <img height="30" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&style=for-the-badge"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> </code>
+      <code> <img height="30" src="https://img.shields.io/badge/Ruby%20on%20Rails-C72C3B?logo=ruby&style=for-the-badge"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/Svelte-4A4A55?logo=svelte&style=for-the-badge"> </code>
