@@ -51,43 +51,10 @@
 <h2>:file_cabinet: Programming Language</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CPP-3776AB?style=for-the-badge&logo=cpp&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=cpp&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C-Sharp-3776AB?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 </div>
 
-<h2>🤖 Artificial Intelligence </h2>
-<div>
-<img src="https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-Lite-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white" /> 	
-<img src="https://img.shields.io/badge/TensorFlow-Js-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white" /> 	
-<img src="https://img.shields.io/badge/Tensor-RT-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white" /> 	
-<img src="https://img.shields.io/badge/PyTorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Scikit-Learn-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Opencv-3776AB?style=for-the-badge&logo=opencv&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Keras-3776AB?style=for-the-badge&logo=keras&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Scipy-3776AB?style=for-the-badge&logo=scipy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Dlib-3776AB?style=for-the-badge&logo=dlib&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Torch Vision-3776AB?style=for-the-badge&logo=torchvision&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging-Face-3776AB?style=for-the-badge&logo=huggingface&logoColor=white" /> 
-<img src="https://img.shields.io/badge/gensim-3776AB?style=for-the-badge&logo=gensim&logoColor=white" /> 
-<img src="https://img.shields.io/badge/spacy-3776AB?style=for-the-badge&logo=spacy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/transformers-3776AB?style=for-the-badge&logo=transformers&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" /> 
-<img src="https://img.shields.io/badge/ParlAI-3776AB?style=for-the-badge&logo=parlai&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MatplotLib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/DarkNet-3776AB?style=for-the-badge&logo=darknet&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/Theano-3776AB?style=for-the-badge&logo=theano&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/Deep-Stream-3776AB?style=for-the-badge&logo=deepstream&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tesseract-3776AB?style=for-the-badge&logo=tesseract&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/CNTK-3776AB?style=for-the-badge&logo=cntk&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/Selenium-3776AB?style=for-the-badge&logo=selenium&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/Allen-NLP-3776AB?style=for-the-badge&logo=allen-nlp&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/Text-Blob-3776AB?style=for-the-badge&logo=text-blob&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/Stanford-NLP-3776AB?style=for-the-badge&logo=stanford-nlp&logoColor=white" /> 
-</div>	
 <div>
 <h2>Python Frameworks</h2>
 <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white" /> 
@@ -118,11 +85,7 @@
 <img src="https://img.shields.io/badge/Jenkins-3776AB?style=for-the-badge&logo=rabbitmq&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Travis-3776AB?style=for-the-badge&logo=travis&logoColor=white" /> 
 </div>
-<div>
-	<h2>3D & AR </h2>
-	<img src="https://img.shields.io/badge/Unity-3776AB?style=for-the-badge&logo=unity&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/3-js-3776AB?style=for-the-badge&logo=3js&logoColor=white" /> 
-</div>
+
 <div>
 	<h2> Cloud Providers </h2>
 	<img src="https://img.shields.io/badge/Azure-3776AB?style=for-the-badge&logo=azure&logoColor=white" /> 
@@ -137,7 +100,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnbot&show_icons=true&locale=en&layout=compact" alt="hrnbot" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=hrnbot&amp;show_icons=true" alt="GitHub Stats"></p>
 
-<p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
-<p>
-<p>⏰ Updated on Wed, 13 Dec 2023 18:19:46 GMT</p>
 
