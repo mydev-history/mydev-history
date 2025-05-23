@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Nice to meet you.</h1>
-<h3 align="center">I am Full Stack Developer with 11 years(Python, React)</h3>
-<h3 align="center">
+<h3 align="center">I am Full Stack Developer with 11 years</h3>
+<!-- <h3 align="center">
     <a href="https://cozyfox-portfolio.web.app/" target="_blank">Visit website</a>
-</h3>
+</h3> -->
 <h3 align="left">Languages and Tools:</h3>
 <code> <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> </code>
