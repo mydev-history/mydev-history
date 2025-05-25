@@ -46,12 +46,6 @@
 <img src="https://img.shields.io/badge/Travis-3776AB?style=for-the-badge&logo=travis&logoColor=white" /> 
 </div> -->
 
-<div>
-	<h2> Cloud Providers </h2>
-	<img src="https://img.shields.io/badge/Azure-3776AB?style=for-the-badge&logo=azure&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=aws&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/Google-Cloud-3776AB?style=for-the-badge&logo=gcp&logoColor=white" /> 
-</div>
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrnbot" alt="hrnbot" /></a> </p>
 
