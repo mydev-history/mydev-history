@@ -3,7 +3,6 @@
 <h3 align="center">
     <a href="https://cozyfox-portfolio.web.app/" target="_blank">Visit website</a>
 </h3>
-<h3 align="left">Languages and Tools:</h3>
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h1>
 </h1>
 <div>
