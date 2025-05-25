@@ -7,7 +7,7 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h1>
 </h1>
 <div>
-<h1><b>Skills</b></h1>
+<!-- <h1><b>Skills</b></h1>
 <h2>:file_cabinet: Programming Language</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white" /> 
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Azure-CI-3776AB?style=for-the-badge&logo=azure-ci&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Jenkins-3776AB?style=for-the-badge&logo=rabbitmq&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Travis-3776AB?style=for-the-badge&logo=travis&logoColor=white" /> 
-</div>
+</div> -->
 
 <div>
 	<h2> Cloud Providers </h2>
