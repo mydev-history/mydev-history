@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Nice to meet you.</h1>
-<h3 align="center">I am Full Stack Developer with over 10 years</h3>
+<h3 align="center">I am Full Stack Developer.</h3>
 <!-- <h3 align="center">
     <a href="https://cozyfox-portfolio.web.app/" target="_blank">Visit website</a>
 </h3> -->
